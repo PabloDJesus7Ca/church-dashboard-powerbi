@@ -3,20 +3,17 @@
 Dashboard interactivo desarrollado en Power BI para gestionar
 y visualizar el desempeño de los jóvenes del Club Bíblico,
 permitiendo a los líderes hacer seguimiento en tiempo real.
+##
 
-## Overview
-
+## Dashboard Principal
 ![alt text](Home.png)
 
-## Dashboad Principal
-
+## Dashboard Descripcion De Los Participantes
 ![alt text](Descripcion.png)
 
-## Dashboad Descripcion De Los Participantes
-
+## Menu Interactivo De Jovenes
 ![alt text](Menu.png)
 
-## Menu Interactivo Por Jovenes
 
 ## ¿Qué muestra?
 
